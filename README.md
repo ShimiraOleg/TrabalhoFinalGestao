@@ -1,2 +1,2 @@
 # TrabalhoFinalGestao
-# Alunos: Mateus de Oliveira Lopes
+## Alunos: André Cidade Irie e Mateus de Oliveira Lopes 
