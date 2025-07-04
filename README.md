@@ -1,2 +1,2 @@
 # TrabalhoFinalGestao
-## Alunos: Mateus de Oliveira Lopes , Herich Gabriel de Campos
+## Alunos: André Cidade Irie, Herich Gabriel de Campos e Mateus de Oliveira Lopes 
