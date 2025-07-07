@@ -14,4 +14,4 @@ Este projeto é um calculador de taxa de câmbio simples, permitindo aos usuári
 * Mateus de Oliveira Lopes
 
 ## Link para o Projeto no Trello
-[Inserir link do Trello aqui]
+* https://trello.com/b/Y0I8DZ2r
